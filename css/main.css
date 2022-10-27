@@ -213,6 +213,9 @@ header {
     margin-left: -85px;
     margin-bottom: 30px;
   }
+  .hero__youtube {
+    max-width: 560px;
+  }
 }
 @media only screen and (max-width: 550px) {
   .hero__all-text {
